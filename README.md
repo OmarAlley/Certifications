@@ -1,3 +1,6 @@
+<h2>Information Technology</h2>
+<img src="https://imgur.com/3GHM0vJ.png" height="70%" width="70%"alt="osTicket logo"/>
+
 <h2>Vulnerability Managent: Detection and Response</h2>
 <img src="https://imgur.com/WCqv4du.png" height="70%" width="70%"alt="osTicket logo"/>
 
